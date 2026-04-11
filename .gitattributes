@@ -1,0 +1,4 @@
+kiva_loans.csv filter=lfs diff=lfs merge=lfs -text
+kiva_mpi_region_locations.csv filter=lfs diff=lfs merge=lfs -text
+loan_theme_ids.csv filter=lfs diff=lfs merge=lfs -text
+loan_themes_by_region.csv filter=lfs diff=lfs merge=lfs -text
